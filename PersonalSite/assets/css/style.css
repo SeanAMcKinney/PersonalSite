@@ -718,11 +718,16 @@ section {
   background-color: #149ddd;
 }
 
+.testimonials.section-bg {
+    background: #fff;
+}
+
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
 .contact {
   padding-bottom: 130px;
+  background: #f5f8fd;
 }
 .contact .info {
   padding: 30px;
