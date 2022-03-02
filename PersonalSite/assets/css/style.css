@@ -539,11 +539,15 @@ section {
   bottom: 0;
 }
 
+/*div.col-lg-4.col-md.portfolio-item.filter-app {
+    height: 100%;
+    width: auto;
+}*/
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
 .portfolio-details {
-  padding-top: 40px;
+    padding-top: 40px;
 }
 .portfolio-details .portfolio-details-slider img {
   width: 100%;
@@ -726,8 +730,8 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact {
-  padding-bottom: 130px;
-  background: #f5f8fd;
+    padding-bottom: 130px;
+    background: #f5f8fd;
 }
 .contact .info {
   padding: 30px;

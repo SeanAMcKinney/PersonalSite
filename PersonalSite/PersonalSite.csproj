@@ -71,8 +71,11 @@
     <Content Include="assets\img\apple-touch-icon.png" />
     <Content Include="assets\img\Clasmates\Alex.gif" />
     <Content Include="assets\img\Clasmates\Austin.jpg" />
+    <Content Include="assets\img\Clasmates\Ben.jpg" />
     <Content Include="assets\img\Clasmates\Connor.jpg" />
+    <Content Include="assets\img\Clasmates\Ian.jpg" />
     <Content Include="assets\img\Clasmates\Jazmine.jpg" />
+    <Content Include="assets\img\Clasmates\Justin.jpg" />
     <Content Include="assets\img\Clasmates\Kayla.jpg" />
     <Content Include="assets\img\Clasmates\Matt.jpg" />
     <Content Include="assets\img\Clasmates\Michael.jpg" />
@@ -85,6 +88,8 @@
     <Content Include="assets\img\favicon\MWDfavicon_Apple_iTouch.png" />
     <Content Include="assets\img\hero-bg.jpg" />
     <Content Include="assets\img\placeholderpersonalsite.jpg" />
+    <Content Include="assets\img\portfolio\CatitudesProjectLinkPic.jpg" />
+    <Content Include="assets\img\portfolio\Dungeon_App_Portfolio_Pic.JPG" />
     <Content Include="assets\img\portfolio\portfolio-1.jpg" />
     <Content Include="assets\img\portfolio\portfolio-2.jpg" />
     <Content Include="assets\img\portfolio\portfolio-3.jpg" />
